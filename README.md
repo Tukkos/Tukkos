@@ -10,7 +10,7 @@
 
 ###
 
-  <p align="left">My name is João Paulo and I'm a web developer, from Brasil. I'm currently a Web Developer Fullstack Bootcamp student and soon I will add more info here...</p>
+  <p align="left">My name is João Paulo and I'm a web developer, from Brasil. I'm <br> currently a Web Developer Fullstack Bootcamp student and soon I will add more info here...</p>
 
   <h2 align="left">About me</h2>
 
