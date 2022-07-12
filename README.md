@@ -2,7 +2,7 @@
 
 ###
   
-<div align="right" width="50%">
+<div align="left" width="50%">
   <a href="https://open.spotify.com/user/tukkos">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=tukkos&width=400" alt="Spotify recently played"  />
   </a>
