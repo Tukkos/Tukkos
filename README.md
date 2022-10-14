@@ -15,7 +15,7 @@
 
   <h2 align="left">About me</h2>
 
-  <p align="left">💬 Pronouns: He/Him;<br>📚 I'm currently learning React and Python;<br>🖥️ I’m currently working with HTML, CSS, JavaScript;<br>🎲 Fun fact: I love strategy games and board games.</p>
+  <p align="left">💬 Pronouns: He/Him;<br>📚 I'm currently learning Postgres and Python;<br>🖥️ I’m currently working with HTML, CSS, JavaScript, React, MongoDB and Node;<br>🎲 Fun fact: I love strategy games and board games.</p>
  
 ###
 
