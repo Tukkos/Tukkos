@@ -15,7 +15,7 @@
 
   <h2 align="left">About me</h2>
 
-  <p align="left">💬 Pronouns: He/Him;<br>📚 I'm currently learning Postgres and Python;<br>🖥️ I’m currently working with HTML, CSS, JavaScript, React, MongoDB and Node;<br>🎲 Fun fact: I love strategy games and board games.</p>
+  <p align="left">💬 Pronouns: He/Him;<br>📚 I'm currently learning Typescript and Python;<br>🖥️ I’m currently working with HTML, CSS, JavaScript, React, MongoDB, Node, PostgresSQL and Typescript;<br>🎲 Fun fact: I love strategy games and board games.</p>
  
 ###
 
@@ -39,7 +39,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="72" width="83" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="72" width="83" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="72" width="83" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="72" width="83" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="72" width="83" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="72" width="83" alt="vscode logo"  />
 </div>
 
 ###
