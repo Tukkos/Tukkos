@@ -15,7 +15,7 @@
 
   <h2 align="left">About me</h2>
 
-  <p align="left">💬 Pronouns: He/Him;<br>📚 I'm currently learning Typescript and Python;<br>🖥️ I’m currently working with HTML, CSS, JavaScript, React, MongoDB, Node, PostgresSQL and Typescript;<br>🎲 Fun fact: I love strategy games and board games.</p>
+  <p align="left">💬 Pronouns: He/Him;<br>📚 I'm currently learning Docker, Redis and Python;<br>🖥️ I’m currently working with HTML, CSS, JavaScript, Typescript, React, Node, MongoDB, PostgresSQL, Jest;<br>🎲 Fun fact: I love strategy games and board games.</p>
  
 ###
 
@@ -37,10 +37,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="72" width="83" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="72" width="83" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="72" width="83" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="72" width="83" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="72" width="83" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="72" width="83" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="72" width="83" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="72" width="83" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="72" width="83" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="72" width="83" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="72" width="83" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="72" width="83" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="72" width="83" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="72" width="83" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="72" width="83" alt="vscode logo"  />   
 </div>
 
 ###
