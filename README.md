@@ -8,13 +8,14 @@
   <h2 align="left">About me</h2>
 
   📚 I'm currently learning Docker, Redis and Python;<br>
-  🖥️ I’m currently working with:;<br>
-  :art: Frontend and backend: JavaScript | TypeScript | React | Node | Styled Components | HTML | CSS; <br>
-  :building_construction: Fundaments of computer engineering: Logic | Algorithm | Data Structure | Object-oriented Programming | Architectural Programming | Optimization | Performance | Clean Code;<br>
-  :cd: Database: MongoDB | PostgresSQL | Redis;<br>
-  :bullettrain_front: Principles of Dev-Ops: GitHub Actions | Docker | AWS;<br>
-  :robot: Unit testing: Jest | Supertest | Cypress;<br>
-  :wink: Team work, agile methodology(scrum) and development of behavioral skills;<br>
+  🖥️ I’m currently working with:<br>
+      Frontend and backend: JavaScript | TypeScript | React | Node | Styled Components | HTML | CSS; <br>
+  :wink: Another skills:<br>
+   Fundaments of computer engineering: Logic | Algorithm | Data Structure | Object-oriented Programming | Architectural Programming | Optimization | Performance | Clean Code;<br>
+   Database: MongoDB | PostgresSQL | Redis;<br>
+   Principles of Dev-Ops: GitHub Actions | Docker | AWS;<br>
+   Unit testing: Jest | Supertest | Cypress;<br>
+   Team work, agile methodology(scrum) and development of behavioral skills;<br>
   🎲 Fun fact: I love strategy games and board games.</p>
  
 ###
