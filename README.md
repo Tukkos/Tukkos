@@ -10,6 +10,7 @@
   📚 I'm currently learning Docker, Redis and Python;<br>
   🖥️ I’m currently working with:<br>
       Frontend and backend: JavaScript | TypeScript | React | Node | Styled Components | HTML | CSS; <br>
+      <br>
   :wink: Another skills:<br>
    Fundaments of computer engineering: Logic | Algorithm | Data Structure | Object-oriented Programming | Architectural Programming | Optimization | Performance | Clean Code;<br>
    Database: MongoDB | PostgresSQL | Redis;<br>
