@@ -7,7 +7,7 @@
   
   <h2 align="left">About me</h2>
 
-  📚 I'm currently learning Docker, Redis and Python;<br>
+  📚 I'm currently learning Docker, AWS and Python;<br>
   🖥️ I’m currently working with:<br>
       Frontend and backend: JavaScript | TypeScript | React | Node | Styled Components | HTML | CSS; <br>
       <br>
