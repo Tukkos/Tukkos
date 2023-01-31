@@ -1,21 +1,21 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
+
+  <p align="left">My name is João Paulo and I'm a web developer, from Brasil. 
   
-<div align="left">
-
-  <a href="https://open.spotify.com/user/tukkos">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=tukkos&width=400" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-  <p align="left">My name is João Paulo and I'm a web developer, from Brasil. I'm <br> currently a Web Developer Fullstack Bootcamp student and soon I will <br> add more info here...</p>
-
+  
   <h2 align="left">About me</h2>
 
-  <p align="left">💬 Pronouns: He/Him;<br>📚 I'm currently learning Docker, Redis and Python;<br>🖥️ I’m currently working with HTML, CSS, JavaScript, Typescript, React, Node, MongoDB, PostgresSQL, Jest;<br>🎲 Fun fact: I love strategy games and board games.</p>
+  📚 I'm currently learning Docker, Redis and Python;<br>
+  🖥️ I’m currently working with:;<br>
+  :art: Frontend and backend: JavaScript | TypeScript | React | Node | Styled Components | HTML | CSS; <br>
+  :building_construction: Fundaments of computer engineering: Logic | Algorithm | Data Structure | Object-oriented Programming | Architectural Programming | Optimization | Performance | Clean Code;<br>
+  :cd: Database: MongoDB | PostgresSQL | Redis;<br>
+  :bullettrain_front: Principles of Dev-Ops: GitHub Actions | Docker | AWS;<br>
+  :robot: Unit testing: Jest | Supertest | Cypress;<br>
+  :wink: Team work, agile methodology(scrum) and development of behavioral skills;<br>
+  🎲 Fun fact: I love strategy games and board games.</p>
  
 ###
 
@@ -51,12 +51,6 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/tukkos/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="instagram logo"  />
-  </a>
-  <a href="Tukkos#0487" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="discord logo"  />
-  </a>
   <a href="jpfcastro@id.uff.br" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="gmail logo"  />
   </a>
@@ -66,4 +60,3 @@
 </div>
 
 ###
-
